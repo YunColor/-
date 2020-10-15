@@ -1,0 +1,60 @@
+/**
+ * 技术信息：资源信息
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "success": [
+        {
+            "url": "https://huan-xi.github.io/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://huan-xi.github.io/js/chunk-vendors.64d944ca.js",
+                    "path": "js/chunk-vendors.64d944ca.js",
+                    "children": []
+                },
+                {
+                    "url": "https://huan-xi.github.io/js/app.7da78375.js",
+                    "path": "js/app.7da78375.js",
+                    "children": []
+                },
+                {
+                    "url": "https://huan-xi.github.io/css/chunk-vendors.472b95f5.css",
+                    "path": "css/chunk-vendors.472b95f5.css",
+                    "children": [
+                        {
+                            "url": "https://huan-xi.github.io/fonts/element-icons.535877f5.woff",
+                            "path": "fonts/element-icons.535877f5.woff",
+                            "children": []
+                        },
+                        {
+                            "url": "https://huan-xi.github.io/fonts/element-icons.732389de.ttf",
+                            "path": "fonts/element-icons.732389de.ttf",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://huan-xi.github.io/css/app.9404a58a.css",
+                    "path": "css/app.9404a58a.css",
+                    "children": [
+                        {
+                            "url": "https://huan-xi.github.io/img/bg.07b12b9e.png",
+                            "path": "images/bg.07b12b9e.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://huan-xi.github.io/favicon.ico",
+                    "path": "favicon.ico",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": [
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "https://s4.cnzz.com/z_stat.php?id=1278801872&web_id=1278801872"
+    ]
+}
